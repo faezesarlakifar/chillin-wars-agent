@@ -10,5 +10,8 @@ Our agent for the Tron game utilizes a combination of genetic algorithm and mini
 <br>This approach represents a combined AI-based algorithm, leveraging the power of both genetic algorithms and minimax to enhance decision making in the Tron game.
 ### Here is the problem description in details: [link](https://drive.google.com/file/d/1efJlmPG9kO5om_rzvnbNLBChglS3dRQ0/view?usp=sharing)
 And here is the result on [ChillinMonitor](https://github.com/koala-team/Chillin-Monitor-2/releases/download/v2.2.1/ChillinMonitor-Linux64-v2.2.1.zip):
+- both agents are using this AI-based code.
+![During Game](Tron_DuringGame.png)
+![Final Result](TronGame_Final_Result.png)
 
 
